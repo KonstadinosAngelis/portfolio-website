@@ -1609,6 +1609,10 @@ input, select, textarea {
 
 /* Section/Article */
 
+	#work{
+		display: none;
+	}			
+
 	section, article {
 		margin-bottom: 3em;
 	}
